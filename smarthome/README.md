@@ -20,7 +20,7 @@ On another instance there's a 'friend' identity.
 ```
 $ ./smarthome_handshake_v1.sh 
 Whitesands URL: https://whitesands.p3ki.net
-Whitesands User: p3ki
+Whitesands User: demo
 Whitesands instances: i1, i2, i3, i4, i5
 
 
